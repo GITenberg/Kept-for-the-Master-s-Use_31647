@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3608
     wikipedia: http://en.wikipedia.org/wiki/Frances_Ridley_Havergal
 description: Kept for the Master's use--Selections from Miss Havgergal's latest poem.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31647#Kept-for-the-Master-s-Use
 gutenberg_issued: '2010-03-15'
 gutenberg_type: Text
 identifiers:
